@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# 脚本名称：install_prometheus.sh
 # 功能：自动安装或卸载 Prometheus、Node Exporter 和 Grafana，支持用户选择安装组件及指定版本或默认安装最新版本，适配系统架构
 # 作者：Grok3
 # 使用方法：chmod +x install_prometheus.sh && ./install_prometheus.sh [uninstall]
